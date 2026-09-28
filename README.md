@@ -41,7 +41,7 @@ prompts (file / CLI)
 **Requirements:** Python 3.11+ and an OpenAI API key.
 
 ```bash
-git clone https://github.com/<your-username>/async-ai-task-engine.git
+git clone https://github.com/Dark854/async-ai-task-engine.git
 cd async-ai-task-engine
 
 python -m venv .venv
